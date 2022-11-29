@@ -60,6 +60,7 @@ PHP_ZSTD='y'
 #PHPPGO_INDEXPATH='/home/nginx/domains/XX/public/index.php'
 #PHPPGO_INDEXPATH_TWO='/home/nginx/domains/XX/public/index.php'
 PHPINFO='y'
+PHP_MEMCACHE='n'
 
 ZSTD_LOGROTATE_NGINX='y'
 ZSTD_LOGROTATE_PHPFPM='y'
